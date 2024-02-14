@@ -1,5 +1,5 @@
 {
-    "name": "roave/no-leaks",
+    "name": "mniemcewicz/no-leaks",
     "license": "MIT",
     "autoload": {
         "psr-4": {
